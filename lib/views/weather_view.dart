@@ -16,7 +16,7 @@ class _WeatherViewState extends State<WeatherView> {
   String errorMessage = '';
 
   // Reemplaza con tu clave de API de OpenWeatherMap
-  final String apiKey = '591acb683c47f99d107673dcc62fcb6d';
+  final String apiKey = '';
 
   Future<void> fetchWeather() async {
     try {
