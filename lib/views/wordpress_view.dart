@@ -15,7 +15,7 @@ class _NYTimesViewState extends State<NYTimesView> {
   String errorMessage = '';
 
   // Reemplaza con tu clave de API de NYT
-  final String apiKey = 'Pn51OnEnOkC5SSgdb5Ll8N42pR1UHhLb';
+  final String apiKey = '';
 
   Future<void> fetchArticles() async {
     try {
